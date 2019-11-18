@@ -1,2 +1,3 @@
 # AMS1-la-cronica
 un experimento social
+[1]:Un día como otro cualquiera, el Marc procedía a hacer un chiste que carecía de gracia, pero algo inusual pasó, resulta que...
